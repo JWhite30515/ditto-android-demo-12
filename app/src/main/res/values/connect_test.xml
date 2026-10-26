@@ -8,7 +8,7 @@
     <string name="ct_whitespace">Payment sent</string>
     <string name="ct_code_only">Freeze your card</string>
     <string name="ct_variable">Hi <xliff:g id="firstName" example="Sam">%1$s</xliff:g>, welcome back</string>
-    <string name="ct_variant">Account settings change</string>
+    <string name="ct_variant">Account settings</string>
     <string name="ct_variant_replace">Notification settings</string>
     <string name="ct_variant_same">Log out</string>
     <string name="ct_variant_drop">Send money22</string>
